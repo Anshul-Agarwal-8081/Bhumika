@@ -3,9 +3,12 @@ dist/
 .DS_Store
 .env
 .env.local
+<<<<<<< HEAD
 .env.*
 !.env.example
 backend/.env
 backend/.env.*
 !backend/.env.example
 backend/dist/
+=======
+>>>>>>> 558bb8dc47ee8517cabf3ba2e6d9a10a49423a3c
